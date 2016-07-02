@@ -1,2 +1,2 @@
 # First
-First project
+Github is pretty coool
